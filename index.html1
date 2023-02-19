@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+    <head>                        
+        <h1><title>web.html</title></h1>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1><a href="index.html">web</a></h1>
+        <ol>
+            <li><a href="file:///C:/Users/yjsh0/OneDrive/Desktop/web/web/1.html/web/web/1.html">HTML</a></li>
+            <li><a href="2.HTML">CSS</a></li>
+            <li><a href="3.HTML">JavaScrip</a></li>
+        </OL>
+    </body>
+<h2>HTML</h2>
+<a href="https://www.w3.org/TR/2011/WD-html5-20110405/"
+ target="_blank" title="html5"
+standard markup language for creating<br></a>
+    <u>web</u> pages</strong><br>
+    <p>HTML 은 Hyper Text Markup Language 약어로 HyperText(웹 페이지에서 다른 페이지로 이동할 수 있도록 하는 것)<br>
+기능을 가진 문서를 만드는 언어입니다. 다시 말해, 구조를 설계할 때 사용되는 언어로 hyper link 시스템을 가지고 있으며,<br>
+ 흔히 말하는 웹 페이지를 위한 마크업 언어라고 할 수 있습니다.</p><br>
+
+
+br 은 줄바꿈 p는 단락을 나타내는 태그<br><br>
+
+<img src="https://i.pinimg.com/236x/72/f9/e2/72f9e2148b46f1a5d711e9cdd255f5f3.jpg" Width="200"> 
+
+<h3><a href="https://www.netflix.com/kr/">web</a></h3>

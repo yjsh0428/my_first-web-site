@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+    <head>                        
+        <h1><title>web.html</title></h1>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1><a href="index.html">web</a></h1>
+        <ol>
+            <li><a href="1.HTML">HTML</a></li>
+            <li><a href="2.HTML">CSS</a></li>
+            <li><a href="3.HTML">JavaScrip</a></li>
+        </OL>
+    </body>
+<h2>CSS</h2>
+<a href="https://www.w3.org/TR/2011/WD-html5-20110405/"
+ target="_blank" title="html5"
+standard markup language for creating<br></a>
+    <u>web</u> pages</strong><br>
+   
+<P>CSS는 Cascading Style Sheets의 약자로 HTML, XHML, XML 같은 문서의 스타일을 꾸밀 때 사용하는 스타일 시트 언어입니다.<br>
+HTML로 문서의 뼈대를 만들면 CSS는 이 문서를 꾸며 글꼴, 배경색, 위치, 너비와 높이 등을 지정하거나<br>
+웹 브라우저, 스크린 크기, 장치에 따라서 화면을 다르게 표시될 수 있도록 지정하는 것입니다.</P>
+
+br 은 줄바꿈 p는 단락을 나타내는 태그<br><br>
+
+<img src="https://i.pinimg.com/236x/6c/cd/08/6ccd089e2e6c365c5169f117fb888faf.jpg" Width="200"> 
+
+
+<h3><a href="https://www.netflix.com/kr/">web</a></h3>
+
